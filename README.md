@@ -1,7 +1,7 @@
 # Property Valuation Financial Model and Analysis
 
 ## Overview
-This project presents a financial analysis of two mutually exclusive real estate investments to determine the more viable option based on potential Return on Investment (ROI). Key financial metrics such as Present Value (PV), Net Present Value (NPV), and Internal Rate of Return (IRR) were considered.
+A financial valuation and comparative investment analysis for two real estate assets using a custom-built financial model, successfully identifying the more profitable asset, and enabling data-driven investment decisions by applying key metrics like Return on Investment (ROI), Present Value (PV), Net Present Value (NPV), Future Value (FV), benchmark rate, and Internal Rate of Return (IRR).
 
 The insights from this analysis informed the investment decisions of InvEstate, a Real Estate Investment Trust (REIT).
 
