@@ -30,13 +30,13 @@ The insights from this analysis informed the investment decisions of InvEstate, 
     - Starting rent (after acquisition and renovation) and annual rent growth rate
     - Benchmark discount rate and reinvestment rate
     - Cost growth rate and inflation expectations
-    - Projected Net Operating Income and property value based on holding period
   - Modeled both properties under the same baseline to allow fair comparison.
 
 3. Core Financial Calculations
   - Present Value (PV) and Future Value (FV): Calculated to assess the time value of cash inflows and outflows.
   - Net Present Value (NPV): Measured overall profitability, considering the cost of capital.
   - Internal Rate of Return (IRR): Assessed investment efficiency and compared returns to the benchmark rate.
+  - Net Operating Income (NOI) and Property Valuation across holding periods
   - Payback Period: Evaluated liquidity and risk exposure by estimating the time to recover initial investment.
 
 4. Comparative Analysis
