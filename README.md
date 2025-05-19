@@ -24,7 +24,12 @@ The insights from this analysis informed the investment decisions of InvEstate, 
   - Organized cash flows by period, separated capex from operational inflows, and accounted for recurring revenue and expenses.
 
 2. Assumptions & Scenario Setup
-  - Defined key model assumptions: investment horizon, benchmark discount rate, reinvestment rate, and inflation expectations.
+  - Defined key model assumptions:
+    - Investment horizon
+    - Target acquisition and exit capitalization rates
+    - Starting rent (after acquisition and renovation) and annual rent growth rate
+    - Benchmark discount rate and reinvestment rate
+    - Cost growth rate and inflation expectations.
   - Modeled both properties under the same baseline to allow fair comparison.
 
 3. Core Financial Calculations
