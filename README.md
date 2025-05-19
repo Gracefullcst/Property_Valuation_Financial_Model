@@ -36,7 +36,8 @@ The insights from this analysis informed the investment decisions of InvEstate, 
   - Present Value (PV) and Future Value (FV): Calculated to assess the time value of cash inflows and outflows.
   - Net Present Value (NPV): Measured overall profitability, considering the cost of capital.
   - Internal Rate of Return (IRR): Assessed investment efficiency and compared returns to the benchmark rate.
-  - Net Operating Income (NOI) and Property Valuation across holding periods
+  - Net Operating Income (NOI): Calculated annual income generated from the properties after deducting operating expenses, serving as a core indicator of asset profitability and performance across different years.
+  - Property Valuation Across Holding Periods: Estimated the value of each asset over varying investment durations by capitalizing NOI, enabling dynamic assessment of growth potential and market alignment over time.
   - Payback Period: Evaluated liquidity and risk exposure by estimating the time to recover initial investment.
 
 4. Comparative Analysis
