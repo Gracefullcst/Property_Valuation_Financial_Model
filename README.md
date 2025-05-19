@@ -1,7 +1,7 @@
-# Property Valuation Financial Model and Analysis
+# Asset Valuation Analysis and Financial Model
 
 ## Overview
-A financial valuation and comparative investment analysis for two real estate assets powered by a custom-built financial model, successfully identifying the more profitable asset, and enabling data-driven investment decisions by applying key metrics like Return on Investment (ROI), Present Value (PV), Net Present Value (NPV), Future Value (FV), benchmark rate, and Internal Rate of Return (IRR).
+A financial analysis involving asset valuation and comparative investment analysis for two real estate assets powered by a custom-built financial model, successfully identifying the more profitable asset, and enabling data-driven investment decisions by applying key metrics like Return on Investment (ROI), Present Value (PV), Net Present Value (NPV), Future Value (FV), benchmark rate, and Internal Rate of Return (IRR).
 
 This analysis incorporated best-practice investment appraisal techniques and demonstrates financial modeling proficiency using Excel.
 The insights from this analysis informed the investment decisions of InvEstate, a Real Estate Investment Trust (REIT).
